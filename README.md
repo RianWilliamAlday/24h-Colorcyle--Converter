@@ -1,5 +1,3 @@
-#24H-Colorcycle-Converter
-
 Converts colorcycle.dat into 24hours
 
 Usage:
